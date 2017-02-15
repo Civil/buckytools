@@ -10,7 +10,7 @@ import (
 	"strings"
 )
 
-import "github.com/jjneely/buckytools/hashing"
+import "github.com/Civil/buckytools/hashing"
 import "github.com/pborman/uuid"
 
 func getConfig(file string) []string {

@@ -26,7 +26,7 @@ import (
 	"time"
 )
 
-import pickle "github.com/jjneely/buckytools/pickle"
+import pickle "github.com/Civil/buckytools/pickle"
 
 // Where we listen for incoming TCP connections
 var bindTo string

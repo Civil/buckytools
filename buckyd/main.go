@@ -10,8 +10,8 @@ import (
 	"strings"
 )
 
-import . "github.com/jjneely/buckytools"
-import "github.com/jjneely/buckytools/metrics"
+import . "github.com/Civil/buckytools"
+import "github.com/Civil/buckytools/metrics"
 
 var metricsCache *metrics.MetricsCacheType
 var tmpDir string

@@ -9,7 +9,7 @@ import (
 	"sync"
 )
 
-// import "github.com/jjneely/buckytools/hashing"
+// import "github.com/Civil/buckytools/hashing"
 
 type MigrateWork struct {
 	oldName     string
